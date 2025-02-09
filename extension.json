@@ -1,0 +1,9 @@
+{
+    "name": "Omni Theme",
+    "version": "0.1.0",
+    "authors": [
+        "Joao Gabriel Valentim Theodoro <https://github.com/JoaoGaValentim>"
+    ],
+    "description": "Theme for the Zed editor based on Omni for VSCode",
+    "repository": "https://github.com/JoaoGaValentim/zed_omni"
+}
