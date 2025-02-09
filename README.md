@@ -12,7 +12,7 @@
 
 <p align="center" dir="auto">
   <a href="#install">Install</a> •
-  <a href="#author">Athour</a> •
+  <a href="#author">Authour</a> •
   <a href="#license">License</a> •
   <a href="#inspired">Inspired</a>   
 </p>
